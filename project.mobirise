@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "PreSell Costure Todo Dia",
+    "name": "Demiti Meu Patrão",
     "currentPage": "desconto-unico.html",
     "theme": {
       "name": "mobirise4",
@@ -39,7 +39,7 @@
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
     "snow": "",
-    "favicon": "@PROJECT_PATH@/assets/images/01-128x104.png",
+    "favicon": "@PROJECT_PATH@/assets/images/dmp-favicon-128x120.png",
     "noImageResize": "",
     "siteUrl": "undefined"
   },
